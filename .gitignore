@@ -1,0 +1,10 @@
+.idea/
+*.iml
+
+# Directorios de compilación
+/out/
+/build/
+
+# Configuración y archivos temporales
+*.log
+*.class
